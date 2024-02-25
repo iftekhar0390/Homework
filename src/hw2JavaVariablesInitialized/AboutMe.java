@@ -14,8 +14,7 @@ public class AboutMe {
 		System.out.println(": ------------ This is all about Myself ------------:");
 	}
 
-// Step 6 : Implement a void type method 
-
+	// Step 6 : Implement a void type method 
 	public void aboutMe() {
 
 		System.out.println("My Name: " + myName + "\nMy Age: " + myAge + "\nMy Height: " + myHeight + "\nMy Gender: "
